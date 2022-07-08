@@ -15,7 +15,7 @@ Console.WriteLine("+");
 Console.SetCursorPosition(xc, yc);
 Console.WriteLine("+");
 
-int x = xa, y = ya;
+int x = xa, y = yc;
 
 int count = 0;
 
